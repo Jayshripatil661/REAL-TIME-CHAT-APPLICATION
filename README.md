@@ -32,6 +32,9 @@ To start the client server go to client/ directory and type the command npm star
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/c94df9ea-b94e-4447-beac-63922ece6d28)
 
 
 ![Image](https://github.com/user-attachments/assets/4397e3ac-1572-4128-98d6-1f2015d64d1d)
+
+
